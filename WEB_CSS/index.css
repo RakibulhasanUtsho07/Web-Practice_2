@@ -1,0 +1,21 @@
+nav ul{
+    display: flex;
+    gap :15px;
+    justify-content: right;
+    
+    background-color: aqua ;
+    padding: 40px;
+    color: block;
+}
+nav li {
+    list-style: none;
+}
+nav li a{
+    text-decoration: none;
+    background-color: blue;
+    padding: 7px;
+    border-radius: 10px;
+}
+nav li a:hover{
+    background-color: brown;
+}
